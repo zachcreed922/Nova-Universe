@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nova Universe - Communauté Discord</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur Nova Universe !</h1>
+    <p>Un serveur Discord pour RP, projets et événements</p>
+  </header>
+  <nav>
+    <a href="#projet">Projet</a>
+    <a href="#events">Événements</a>
+    <a href="#wiki">Wiki</a>
+    <a href="#discord">Discord</a>
+  </nav>
+  <main>
+    <section id="projet">
+      <h2>Projet Communautaire</h2>
+      <p>Participez à nos projets RP et créatifs.</p>
+    </section>
+    <section id="events">
+      <h2>Événements</h2>
+      <p>Challenges et tournois hebdomadaires.</p>
+    </section>
+    <section id="wiki">
+      <h2>Wiki & Guides</h2>
+      <p>Articles et guides créés par la communauté.</p>
+    </section>
+    <section id="discord">
+      <h2>Rejoignez Nova Universe</h2>
+      <a href="https://discord.gg/tonlien" target="_blank">Rejoindre Discord</a>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2026 Nova Universe</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
